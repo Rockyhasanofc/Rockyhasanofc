@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a target="_blank" href="https://twitter.com/Rockyhasanofc" >Twitter<a/>....
   ......
 ..
-  
+  .
 
