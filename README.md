@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web Project
 - 🤔 I’m looking for help with Php
 - 💬 Ask me about Bootstrap
-- 📫 How to reach me: <a target="_blank" href="https://twitter.com/Rockyhasanofc" >Twitter<a/>....
+- 📫 How to reach me: <a target="_blank" href="https://twitter.com/Rockyhasanofc" >Twitter<a/>.....
  
