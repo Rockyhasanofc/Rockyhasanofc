@@ -1,14 +1,59 @@
-# ASSALAMUALAYKUM 👋
+<h1 align="center">
+  Assalamu Alaikum, I'm Rocky Hasan 👋
+</h1>
 
-**Rockyhasanofc/Rockyhasanofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Web Developer | JavaScript & Python Learner | Problem Solver</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://twitter.com/Rockyhasanofc"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:Rockyhasanofficial1@gmail.com"><img src="https://img.shields.io/badge/Email-0f766e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rockyhasanofc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on Github
-- 🌱 I’m currently learning Javascript
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Web Project
-- 🤔 I’m looking for help with Php
-- 💬 Ask me about Bootstrap
-- 📫 How to reach me: <a target="_blank" href="https://twitter.com/Rockyhasanofc" >Twitter<a/>.....
- 
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 বর্তমানে **GitHub**-এ কাজ করছি এবং ওপেন সোর্স প্রজেক্টে অবদান রাখার চেষ্টা করছি।
+- 🌱 বর্তমানে শিখছি **JavaScript** ও **Python**।
+- 👯 **Web Project**-এ সহযোগিতা করতে আগ্রহী। যোগাযোগ করুন!
+- 🤝 **PHP** ও **Bootstrap** নিয়ে সাহায্য প্রয়োজন হলে জানাতে পারেন।
+- 💬 আমাকে **Bootstrap** সম্পর্কে জিজ্ঞাসা করতে পারেন।
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,python,git,github" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Project Name 1](#)** | সংক্ষিপ্ত বর্ণনা: কী সমস্যা সমাধান করে | HTML, CSS, JS |
+| **[Project Name 2](#)** | সংক্ষিপ্ত বর্ণনা | PHP, Bootstrap |
+| **[Project Name 3](#)** | সংক্ষিপ্ত বর্ণনা | Python |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rockyhasanofc&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockyhasanofc&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+[![Twitter](https://img.shields.io/badge/Twitter-@Rockyhasanofc-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Rockyhasanofc)
+[![Email](https://img.shields.io/badge/Email-Me-0f766e?style=flat-square&logo=gmail&logoColor=white)](mailto:[your-email])
+
+<p align="center"><i>"শেখার কোনো শেষ নেই, প্রতিদিন একটু একটু করে এগিয়ে যাই।"</i></p>
