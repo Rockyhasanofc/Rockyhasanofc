@@ -36,10 +36,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Project Name 1](#)** | সংক্ষিপ্ত বর্ণনা: কী সমস্যা সমাধান করে | HTML, CSS, JS |
-| **[Project Name 2](#)** | সংক্ষিপ্ত বর্ণনা | PHP, Bootstrap |
-| **[Project Name 3](#)** | সংক্ষিপ্ত বর্ণনা | Python |
-
+| **[Shop Management System](#)** | দোকানের স্টক, ক্রয়-বিক্রয় ও ইনভয়েস ব্যবস্থাপনা | HTML, CSS, JavaScript |
+| **[Accounting Web App](#)** | প্রতিষ্ঠানের নিয়মিত হিসাব সংরক্ষণ ও রিপোর্ট তৈরি | HTML, CSS, JavaScript |
+| **[Tech Doctor BD](https://your-live-link)** | সকল ধরনের টেক সমস্যার সমাধানের জন্য ওয়েবসাইট | HTML, CSS, JavaScript |
 ---
 
 ### 📊 GitHub Stats
